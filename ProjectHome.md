@@ -1,0 +1,1 @@
+Based on SendKeys module, re-written in only python (using ctypes), for x64 Windows OSes support.
